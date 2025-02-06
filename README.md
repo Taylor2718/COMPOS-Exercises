@@ -1,2 +1,2 @@
 # COMPOS-Exercises
-Workbooks and Computational Exercises for COMPOS
+Course Notes, Handbook and Computational Exercises for COMPOS
